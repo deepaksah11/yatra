@@ -1,0 +1,10 @@
+
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(255, 75, 43, 0.18), transparent 32rem),
+    linear-gradient(135deg, #f6f5f7 0%, #ffffff 48%, #f0f4ff 100%);
+  color: #222;
+  font-family: "Montserrat", Arial, sans-serif;
+}
